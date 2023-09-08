@@ -1,6 +1,7 @@
 # todo_app.rb
 
 require_relative 'task_manager'
+require_relative 'task'
 
 tasks = load_tasks
 

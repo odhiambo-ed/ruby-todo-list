@@ -1,0 +1,4 @@
+Read a book,Finish reading 'The Hobbit',true
+Write code,Work on the Ruby project,false
+Exercise,Go for a 30-minute run,false
+Buy groceries,Get milk, eggs, and bread,false
