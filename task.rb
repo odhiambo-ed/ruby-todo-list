@@ -1,4 +1,4 @@
-class ClassName
+class Task
     attr_accessor :title, :description, :completed
 
     def initialize(title, description, completed)
