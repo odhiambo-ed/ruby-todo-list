@@ -17,3 +17,11 @@ def load_tasks
     tasks
 
 end
+
+def save_tasks(tasks)
+  File.open(TASKS_FILE_PATH, 'w') do |file|
+    tasks.each do |task|
+      file.puts("#{task.title},#{task.description},#{task.completed}")
+    end
+  end
+end
