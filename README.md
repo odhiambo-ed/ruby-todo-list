@@ -13,7 +13,7 @@
 ## Technologies and Languages Used
 
 
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=100&color=currentColor) Java
+![Ruby](https://icongr.am/devicon/ruby-original.svg?size=100&color=currentColor) Ruby
 
 ## Features
 
